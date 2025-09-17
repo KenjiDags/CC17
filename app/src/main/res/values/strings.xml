@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Learning Contract</string>
+    <string name="section_text"><b>Section:</b> CC17 | CITCS INTL Group B (3F)</string>
+
+    <string name="expectations">
+    Expectations:\n
+    • We expect that the class provides a friendly environment for the students to learn.\n
+    • We expect that the teacher provides help towards the students if needed.\n
+    • We expect that the teacher be patient towards his students.\n
+    • We expect our fellow students to respect the teacher authority and the rules provided by the school.\n
+    • We expect ourselves to do our best and to submit every requirement given on time.
+</string>
+
+    <string name="motivations">
+    Motivations:\n
+    • Our parents who support our decision on the course we chose.\n
+    • Our desire for personal growth.\n
+    • Our wish avoid adding another year in college.\n
+    • Our desire to learn more about the subject.\n
+    • Our desire to develop new skills and to improve existing ones.
+    </string>
+
+    <string name="contributions">
+    Contributions:\n
+    • Dedicating ourselves to attending lectures and completing assignments on time.\n
+    • Our assistance if asked or needed.\n
+    • By maintaining a respectful and disciplined attitude.\n
+    • By actively engaging in discussions.\n
+    • We can contribute resources if needed by others.
+    </string>
+
+    <string name="hindrances">
+    Hindrances:\n
+    • Mental health issues.\n
+    • I (Kenji) can easily forget.\n
+    • Traffic on the way to school.\n
+    • Poor Time Management.\n
+    • My (Kenji) house to school distance.
+    </string>
+
+
+</resources>
